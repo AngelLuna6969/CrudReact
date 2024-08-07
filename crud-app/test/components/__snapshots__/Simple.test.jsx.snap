@@ -2,12 +2,16 @@
 
 exports[`Pruebas generales del componente Simple Se realiza comparacion con snapshot 1`] = `
 <div>
-  <h1>
+  <h1
+    data-testid="test-title"
+  >
     Hello Word
   </h1>
   <h4>
     Final de Cuatri
   </h4>
-  <p />
+  <p>
+    Jose
+  </p>
 </div>
 `;
